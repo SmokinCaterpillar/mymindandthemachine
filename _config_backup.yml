@@ -18,6 +18,3 @@ github_username:  SmokinCaterpillar
 
 # Build settings
 markdown: kramdown
-
-gems:
-- jekyll-seo-tag
