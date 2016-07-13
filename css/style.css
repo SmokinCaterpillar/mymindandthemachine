@@ -86,8 +86,10 @@ dd {
 ul {
   list-style: inside circle;
   padding-left: 0;
+  font-size:8px;
 
   li {
+    font-size:8px;
     margin-bottom: .25rem;
   }
 
@@ -101,8 +103,10 @@ ul {
 ol {
   list-style: inside decimal;
   padding-left: 0;
+  font-size:8px;
 
   li {
+    font-size:8px;
     margin-bottom: .25rem;
   }
 
